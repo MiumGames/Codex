@@ -13,7 +13,6 @@
 #include "Animation/AnimNotifyQueue.h"
 
 
-
 //////////////////////////////////////////////////////////////////////////
 // ACodexCharacter
 
@@ -240,6 +239,7 @@ void ACodexCharacter::SetCanMoveOnAnimNotify()
 {
 	CanMoveForAnimation = true;
 }
+
 
 
 

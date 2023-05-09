@@ -135,7 +135,6 @@ protected:
 	UFUNCTION(BlueprintCallable, Category = "Animation")
 	void SetCanMoveOnAnimNotify();
 
-
 protected:
 	// APawn interface
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
